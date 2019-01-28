@@ -1,0 +1,3 @@
+service PingService {
+    string ping()
+}
